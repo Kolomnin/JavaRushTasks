@@ -35,8 +35,12 @@ public class MinMaxUtil {
         arraysList.add(a);
         arraysList.add(b);
         arraysList.add(c);
+        int min = arraysList.get(0);
         int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
+            if (i < min)
+                min = i;
             if (i > max)
                 max = i;
         }
@@ -49,9 +53,13 @@ public class MinMaxUtil {
         arraysList.add(b);
         arraysList.add(c);
         int min = arraysList.get(0);
+        int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
             if (i < min)
                 min = i;
+            if (i > max)
+                max = i;
         }
         return min;
     }
@@ -62,8 +70,12 @@ public class MinMaxUtil {
         arraysList.add(b);
         arraysList.add(c);
         arraysList.add(d);
+        int min = arraysList.get(0);
         int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
+            if (i < min)
+                min = i;
             if (i > max)
                 max = i;
         }
@@ -77,9 +89,13 @@ public class MinMaxUtil {
         arraysList.add(c);
         arraysList.add(d);
         int min = arraysList.get(0);
+        int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
             if (i < min)
                 min = i;
+            if (i > max)
+                max = i;
         }
         return min;
     }
@@ -91,8 +107,12 @@ public class MinMaxUtil {
         arraysList.add(c);
         arraysList.add(d);
         arraysList.add(f);
+        int min = arraysList.get(0);
         int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
+            if (i < min)
+                min = i;
             if (i > max)
                 max = i;
         }
@@ -107,49 +127,20 @@ public class MinMaxUtil {
         arraysList.add(d);
         arraysList.add(f);
         int min = arraysList.get(0);
+        int max = arraysList.get(0);
+
         for (Integer i : arraysList) {
             if (i < min)
                 min = i;
+            if (i > max)
+                max = i;
         }
         return min;
     }
 
     public static void main(String[] args) {
-        System.out.println(min(5,4, 8));
+        System.out.println(min(5,4));
     }
 }
-//БОЛЕЕ ПРАВИЛЬНОЕ РЕШЕНИЕ
-//public class MinMaxUtil {
-//    public static int min(int a, int b) {
-//        return Math.min(a, b);
-//    }
-//
-//    public static int min(int a, int b, int c) {
-//        return min(c, min(a, b));
-//    }
-//
-//    public static int min(int a, int b, int c, int d) {
-//        return min(d, min(a, b, c));
-//    }
-//
-//    public static int min(int a, int b, int c, int d, int e) {
-//        return min(e, min(a, b, c, d));
-//    }
-//
-//    public static int max(int a, int b) {
-//        return Math.max(a, b);
-//    }
-//
-//    public static int max(int a, int b, int c) {
-//        return max(c, max(a, b));
-//    }
-//
-//    public static int max(int a, int b, int c, int d) {
-//        return max(d, max(a, b, c));
-//    }
-//
-//    public static int max(int a, int b, int c, int d, int e) {
-//        return max(e, max(a, b, c, d));
-//    }
-//}
+
 

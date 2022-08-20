@@ -26722,3 +26722,103 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2022-08-07 22:44:13 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-08-07 22:44:13 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-08-07 22:44:13 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-07 22:53:06 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-07 22:53:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-07 22:53:06 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-08 21:44:44 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-08 21:44:44 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-08 21:44:44 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-08 21:44:44 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-08 21:44:44 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-08 21:44:44 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-08 21:45:50 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-08 21:45:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-08 21:45:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-08 21:45:50 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-09 15:27:28 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-09 15:27:28 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-09 15:27:28 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-09 15:27:28 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-09 15:27:28 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-09 15:27:28 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-09 15:27:28 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-09 16:56:00 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-09 16:56:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-09 16:56:01 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-11 23:13:30 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-11 23:13:30 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-11 23:13:30 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-11 23:13:30 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-11 23:13:30 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-11 23:13:30 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-11 23:13:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-11 23:13:34 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-11 23:13:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-11 23:13:49 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-11 23:13:56 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-11 23:13:56 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/IDEA Project/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1211
+2022-08-12 00:20:32 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-12 00:20:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-12 00:20:32 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-12 00:52:25 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-12 00:52:25 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-12 00:52:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-12 00:52:25 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-12 00:52:25 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-12 00:52:25 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-12 00:52:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-12 00:52:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-12 00:52:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-12 00:52:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-12 00:52:47 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/IDEA Project/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task08
+2022-08-12 00:52:47 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/IDEA Project/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task08/task0808
+2022-08-12 00:53:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-12 00:53:16 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-12 00:53:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-12 00:53:36 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-12 00:53:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-12 00:53:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-12 00:53:36 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-16 23:38:21 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-16 23:38:21 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-16 23:38:21 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-16 23:38:21 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-16 23:41:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-16 23:41:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-16 23:41:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-16 23:41:36 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/IDEA Project/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task08/task0803
+2022-08-17 00:08:49 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-17 00:08:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-17 00:08:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-08-17 00:08:50 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-20 00:13:56 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-20 00:13:56 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-20 00:13:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-20 00:13:56 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-20 00:13:58 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-08-20 00:13:58 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-08-20 21:18:52 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-08-20 21:18:52 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-08-20 21:18:52 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-08-20 21:18:52 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-08-20 21:18:52 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-08-20 21:18:52 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-08-20 21:18:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-20 21:18:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-20 21:19:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-20 21:19:38 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-20 21:19:38 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :C:/IDEA Project/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task09/task0919
