@@ -29,6 +29,6 @@ public class Solution {
         public void onPress();
 
         public String onPress(Object o);
-
+        
     }
 }
